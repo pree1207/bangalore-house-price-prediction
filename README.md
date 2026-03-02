@@ -11,7 +11,7 @@ HTML/CSS/JavaScript (Frontend)
 AWS EC2 (Deployment)
 Nginx (Reverse Proxy)
 
-** Machine Learning Approach**
+**Machine Learning Approach**
 Data Cleaning & Preprocessing
 Outlier Detection & Removal
 Feature Engineering
